@@ -38,6 +38,6 @@ enables the user to preview his previous orders
 enable the user to check out or edit quantities of items or back to home to continue shopping
 ![Screenshot](snippets/cart.jpeg)
 
-### Confirm Order scr
+### Confirm Order screen
 just to inform the user that his order is done.
 ![Screenshot](snippets/sucess.jpeg)
